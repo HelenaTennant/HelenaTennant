@@ -16,6 +16,15 @@ HTML/CSS landing page built as part of my frontend learning practice.
 
 Tech: HTML, CSS, Flexbox, basic JavaScript
 
+### CSS Image Slider
+
+Small CSS-only image slider component with responsive layout and scroll-snap navigation.
+
+- Live Demo: https://helenatennant.github.io/css-image-slider/
+- Code: https://github.com/HelenaTennant/css-image-slider
+
+Tech: HTML, CSS, Flexbox, CSS scroll snap
+
 ## What I can do
 
 - Build landing pages from designs
