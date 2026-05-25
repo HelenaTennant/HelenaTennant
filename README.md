@@ -1,9 +1,20 @@
-## Hi, I'm Elena
+# Hi, I'm Elena
 
 Junior Frontend Developer focused on clean, responsive HTML/CSS websites.
 
 I create landing pages, website sections, and layout improvements using HTML, CSS, Flexbox, and basic JavaScript.  
 I am open to small frontend tasks, internships, and part-time projects where I can contribute, practice, and grow through real work.
+
+## Projects
+
+### Learnico Landing Page
+
+HTML/CSS landing page built as part of my frontend learning practice.
+
+- Live Demo: https://helenatennant.github.io/learnico-landing-page/
+- Code: https://github.com/HelenaTennant/learnico-landing-page
+
+Tech: HTML, CSS, Flexbox, basic JavaScript
 
 ## What I can do
 
