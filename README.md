@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Elena
 
-<!--
-**HelenaTennant/HelenaTennant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend Developer focused on clean, responsive HTML/CSS websites.
 
-Here are some ideas to get you started:
+I create landing pages, website sections, and layout improvements using HTML, CSS, Flexbox, and basic JavaScript.  
+I am open to small frontend tasks, internships, and part-time projects where I can contribute, practice, and grow through real work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I can do
+
+- Build landing pages from designs
+- Create responsive website sections
+- Fix HTML/CSS layout issues
+- Improve spacing, typography, and visual structure
+- Add simple JavaScript interactions
+- Work with Figma layouts
+
+## Tech Stack
+
+HTML5, CSS3, Flexbox, JavaScript basics, Figma, VS Code, Git/GitHub
+
+## Currently Improving
+
+CSS Grid, responsive design, media queries, JavaScript
+
+## Open To
+
+Small frontend projects, internships, junior tasks, and part-time collaboration.
+
+---
+
+## RU
+
+Я junior frontend-разработчик. Верстаю лендинги и отдельные секции сайтов, работаю с HTML, CSS, Flexbox и базовым JavaScript.
+
+Открыта к небольшим frontend-задачам, стажировкам и part-time проектам, где смогу быть полезной и развиваться на реальной практике.
