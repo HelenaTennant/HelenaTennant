@@ -40,7 +40,9 @@ HTML5, CSS3, Flexbox, JavaScript basics, Figma, VS Code, Git/GitHub
 
 ## Currently Improving
 
-CSS Grid, responsive design, media queries, JavaScript
+- Completed the CODDY HTML/CSS practice path: HTML Fundamentals, Styling with CSS, CSS Mastery, Practical Frontend, and JavaScript in Action
+- Finishing supporting video lessons and moving deeper into JavaScript practice
+- CSS Grid, responsive design, media queries, DOM basics
 
 ## Open To
 
