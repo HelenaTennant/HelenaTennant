@@ -7,6 +7,15 @@ I am open to small frontend tasks, internships, and part-time projects where I c
 
 ## Projects
 
+### Splice Landing Page
+
+Responsive landing page based on a Splice design concept, built with HTML and SCSS.
+
+- Live Demo: https://helenatennant.github.io/splice-landing-page/
+- Code: https://github.com/HelenaTennant/splice-landing-page
+
+Tech: HTML, SCSS, CSS, Flexbox, responsive layout
+
 ### Learnico Landing Page
 
 HTML/CSS landing page built as part of my frontend learning practice.
@@ -36,7 +45,7 @@ Tech: HTML, CSS, Flexbox, CSS scroll snap
 
 ## Tech Stack
 
-HTML5, CSS3, Flexbox, JavaScript basics, Figma, VS Code, Git/GitHub
+HTML5, CSS3, SCSS, Flexbox, JavaScript basics, Figma, VS Code, Git/GitHub
 
 ## Currently Improving
 
@@ -52,6 +61,6 @@ Small frontend projects, internships, junior tasks, and part-time collaboration.
 
 ## RU
 
-Я junior frontend-разработчик. Верстаю лендинги и отдельные секции сайтов, работаю с HTML, CSS, Flexbox и базовым JavaScript.
+Я junior frontend-разработчик. Верстаю лендинги и отдельные секции сайтов, работаю с HTML, CSS, SCSS, Flexbox и базовым JavaScript.
 
 Открыта к небольшим frontend-задачам, стажировкам и part-time проектам, где смогу быть полезной и развиваться на реальной практике.
