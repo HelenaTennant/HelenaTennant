@@ -41,6 +41,7 @@ Tech: HTML, CSS, Flexbox, CSS scroll snap
 - Fix HTML/CSS layout issues
 - Improve spacing, typography, and visual structure
 - Add simple JavaScript interactions
+- Build modal windows and burger menus
 - Work with Figma layouts
 
 ## Tech Stack
@@ -52,6 +53,7 @@ HTML5, CSS3, SCSS, Flexbox, JavaScript basics, Figma, VS Code, Git/GitHub
 - Completed the CODDY HTML/CSS practice path: HTML Fundamentals, Styling with CSS, CSS Mastery, Practical Frontend, and JavaScript in Action
 - Finishing supporting video lessons and moving deeper into JavaScript practice
 - CSS Grid, responsive design, media queries, DOM basics
+- JavaScript DOM events, modal windows, burger menus
 
 ## Open To
 
@@ -62,5 +64,7 @@ Small frontend projects, internships, junior tasks, and part-time collaboration.
 ## RU
 
 Я junior frontend-разработчик. Верстаю лендинги и отдельные секции сайтов, работаю с HTML, CSS, SCSS, Flexbox и базовым JavaScript.
+
+Умею делать адаптивную верстку, простые UI-компоненты, модальные окна и burger menu на JavaScript.
 
 Открыта к небольшим frontend-задачам, стажировкам и part-time проектам, где смогу быть полезной и развиваться на реальной практике.
