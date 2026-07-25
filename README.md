@@ -52,6 +52,8 @@ HTML5, CSS3, SCSS, Flexbox, JavaScript basics, Figma, VS Code, Git/GitHub
 
 - CODDY: HTML JavaScript in Action - issued June 28, 2026  
   Credential: https://coddy.tech/certifications/Lr0ZU3-html-bJ2T8b
+- CODDY: Javascript Fundamentals - issued July 25, 2026  
+  Credential: https://coddy.tech/certifications/Lr0ZU3-javascript-Bi8cmJ
 
 ## Currently Improving
 
@@ -71,6 +73,6 @@ Small frontend projects, internships, junior tasks, and part-time collaboration.
 
 Умею делать адаптивную верстку, простые UI-компоненты, модальные окна и burger menu на JavaScript.
 
-Завершила CODDY HTML/CSS practice path и получила сертификат CODDY HTML JavaScript in Action: https://coddy.tech/certifications/Lr0ZU3-html-bJ2T8b
+Завершила CODDY HTML/CSS practice path и получила сертификаты CODDY HTML JavaScript in Action и CODDY Javascript Fundamentals: https://coddy.tech/certifications/Lr0ZU3-javascript-Bi8cmJ
 
 Открыта к небольшим frontend-задачам, стажировкам и part-time проектам, где смогу быть полезной и развиваться на реальной практике.
