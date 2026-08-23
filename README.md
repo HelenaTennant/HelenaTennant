@@ -62,11 +62,15 @@ HTML5, CSS3, SCSS, Flexbox, JavaScript basics, Figma, VS Code, Git/GitHub
   Credential: https://coddy.tech/certifications/Lr0ZU3-html-bJ2T8b
 - CODDY: Javascript Fundamentals - issued July 25, 2026  
   Credential: https://coddy.tech/certifications/Lr0ZU3-javascript-Bi8cmJ
+- CODDY: Javascript Logic & Flow - issued August 14, 2026  
+  Credential: https://coddy.tech/certifications/Lr0ZU3-javascript-pIPeoH
+- CODDY: Javascript Introduction To TypeScript - issued August 23, 2026  
+  Credential: https://coddy.tech/certifications/Lr0ZU3-javascript-3etV9J
 
 ## Currently Improving
 
 - Completed the CODDY HTML/CSS practice path: HTML Fundamentals, Styling with CSS, CSS Mastery, Practical Frontend, and HTML JavaScript in Action
-- Completed CODDY Javascript Fundamentals and moving deeper into JavaScript practice
+- Completed CODDY Javascript Fundamentals, Logic & Flow, and Introduction To TypeScript
 - CSS Grid, responsive design, media queries, DOM basics
 - JavaScript DOM events, modal windows, burger menus
 
@@ -81,6 +85,6 @@ Small frontend projects, internships, junior tasks, and part-time collaboration.
 
 Умею делать адаптивную верстку, простые UI-компоненты, модальные окна и burger menu на JavaScript.
 
-Завершила HTML/CSS-направление в CODDY: HTML Fundamentals, Styling with CSS, CSS Mastery, Practical Frontend и HTML JavaScript in Action. В июле 2026 прошла CODDY Javascript Fundamentals и сейчас закрепляю JavaScript на мини-проектах.
+Завершила HTML/CSS-направление в CODDY: HTML Fundamentals, Styling with CSS, CSS Mastery, Practical Frontend и HTML JavaScript in Action. Продолжаю JavaScript-направление: прошла Javascript Fundamentals, Logic & Flow и Introduction To TypeScript, сейчас закрепляю JavaScript на мини-проектах.
 
 Открыта к небольшим frontend-задачам, стажировкам и part-time проектам, где смогу быть полезной и развиваться на реальной практике.
